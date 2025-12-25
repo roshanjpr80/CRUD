@@ -166,7 +166,7 @@ def delete_file():
 
         confirm = input(Fore.RED + "Are you sure? (yes/no): ").lower()[0]
 
-        if confirm == "yes":
+        if confirm == "y":
             file_path.unlink()
             print(Fore.GREEN + "File deleted successfully!\n")
         else:
@@ -213,3 +213,4 @@ def main():
 # Run program
 if __name__ == "__main__":
     main()
+
