@@ -2,7 +2,7 @@
 
 CRUD Operations perform in a File.
 
-C -> Create a file.
-R -> Read a file.
-U -> Update or Write a file.
-D -> Delete a file.
+1. C -> Create a file.
+2. R -> Read a file.
+3. U -> Update or Write a file.
+4. D -> Delete a file.
